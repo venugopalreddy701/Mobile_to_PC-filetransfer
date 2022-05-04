@@ -6,6 +6,8 @@ This app is built purely with standard core java libaries in JDK and Android SDK
 
 video demo [link](https://youtu.be/dpu1RKpWcDU)
 
+**Like my project,star this repo
+
 ## Features
 
 -Transfer files from PC to mobile or vice-versa using Wifi-hotspot.
