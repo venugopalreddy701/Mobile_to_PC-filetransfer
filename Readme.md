@@ -1,7 +1,7 @@
 # Mobile_to_PC-filetransfer
 
 
-This is project with Android and desktop application to transfer files from Desktop to PC or vice-versa using sockets.
+This is project with Android and desktop application to transfer files from Desktop to PC or vice-versa using Wifi-hotspot network sockets.
 This app is built purely with standard core java libaries in JDK and Android SDK.
 
 video demo [link](https://youtu.be/dpu1RKpWcDU)
