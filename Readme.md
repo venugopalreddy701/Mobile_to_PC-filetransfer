@@ -8,7 +8,7 @@ video demo [link](https://youtu.be/dpu1RKpWcDU)
 
 ## Features
 
--Transfer files from PC to mobile using Wifi-hotspot or vice-versa.
+-Transfer files from PC to mobile or vice-versa using Wifi-hotspot.
 
 ## Tech Stack
 
